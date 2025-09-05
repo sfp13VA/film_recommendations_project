@@ -4,3 +4,5 @@
 # Junk Files
 .DS_Store
 .ipynb_checkpoints
+tn.movie_budgets.csv.gz
+im.db.zip
