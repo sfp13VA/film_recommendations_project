@@ -6,7 +6,23 @@ We are working with two datasets provided by IMDB and The Numbers.  The data inc
 
 ## Data Preparation
 
+I make the data easier to work with by combining my two datasets and calculating ROI as my measure for movie success, bringing all of the information I need into one dataframe for analysis.
+
 # Exploratory Data Analysis
+I analyzed the data to make recommendations for making movies, evaluating movie success by ROI.
+
+Movies released in the summer, especially June, performed best.
+
+<img width="720" height="432" alt="roi_by_month" src="https://github.com/user-attachments/assets/d17b2d4b-8d03-4eb5-810f-48982f693652" />
+
+Mystery, horror, and thriller genres had the best ROI.
+
+<img width="720" height="432" alt="ROI_by_genre" src="https://github.com/user-attachments/assets/d6f0e2c8-ff24-43f8-8ffe-6a2744aa4b5e" />
+
+Chris Lofing, Travis Cluff, and Matthew Peterman were the best performing writers in these genres measured by ROI.
+
+<img width="720" height="432" alt="ROI_by_writer" src="https://github.com/user-attachments/assets/890e4ccc-e30d-4b7a-b5e6-b74977cb41c5" />
+
 
 # Conclusion
 1) Release dates in the summer, ideally early summer (June), are correlated with the best ROI.
