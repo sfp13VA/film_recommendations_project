@@ -13,17 +13,17 @@ I analyzed the data to make recommendations for making movies, evaluating movie 
 
 Movies released in the summer, especially June, performed best.
 
- <img width="720" height="432" alt="roi_by_month" src="https://github.com/user-attachments/assets/44a4accb-2967-49f1-973d-d48acadfa3d2" />
+<img width="713" height="422" alt="Screenshot 2025-09-10 at 2 38 34 PM" src="https://github.com/user-attachments/assets/87ca99c4-6e40-44fc-bcc9-0af81f9be0fa" />
+
 
 Mystery, horror, and thriller genres had the best ROI.
 
-<img width="720" height="432" alt="ROI_by_genre" src="https://github.com/user-attachments/assets/5c0d9247-0ec6-4b31-9a06-259da1a1b243" />
+<img width="765" height="462" alt="Screenshot 2025-09-10 at 2 39 22 PM" src="https://github.com/user-attachments/assets/39a3869a-beba-4d1c-b170-d2411a9e53e8" />
 
 
 Chris Lofing, Travis Cluff, and Matthew Peterman were the best performing writers in these genres measured by ROI.
 
-<img width="720" height="432" alt="ROI_by_writer" src="https://github.com/user-attachments/assets/bd3622a0-22bf-413c-a42c-be2397aff1f6" />
-
+<img width="713" height="421" alt="Screenshot 2025-09-10 at 2 39 49 PM" src="https://github.com/user-attachments/assets/583f0623-97bc-4d28-a0f4-933db7dc17d1" />
 
 
 # Conclusion
