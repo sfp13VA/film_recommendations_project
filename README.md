@@ -11,9 +11,11 @@ I make the data easier to work with by combining my two datasets and calculating
 # Exploratory Data Analysis
 I analyzed the data to make recommendations for making movies, evaluating movie success by ROI.
 
+
 Movies released in the summer, especially June, performed best.
 
 <img width="713" height="422" alt="Screenshot 2025-09-10 at 2 38 34 PM" src="https://github.com/user-attachments/assets/87ca99c4-6e40-44fc-bcc9-0af81f9be0fa" />
+
 
 
 Mystery, horror, and thriller genres had the best ROI.
@@ -21,9 +23,11 @@ Mystery, horror, and thriller genres had the best ROI.
 <img width="765" height="462" alt="Screenshot 2025-09-10 at 2 39 22 PM" src="https://github.com/user-attachments/assets/39a3869a-beba-4d1c-b170-d2411a9e53e8" />
 
 
+
 Chris Lofing, Travis Cluff, and Matthew Peterman were the best performing writers in these genres measured by ROI.
 
 <img width="713" height="421" alt="Screenshot 2025-09-10 at 2 39 49 PM" src="https://github.com/user-attachments/assets/583f0623-97bc-4d28-a0f4-933db7dc17d1" />
+
 
 
 # Conclusion
